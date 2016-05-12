@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cafetaria Javier</string>
+    <string name="txt_pregunta">Cuántas tasas de café desea ordenar?</string>
+    <string name="num_tazas">Número de tazas</string>
+    <string name="btn_pedir">Realizar Pedido</string>
+    <string name="txt_gracias">Gracias por realizar su pedido!</string>
+    <string name="txt_total">Total:</string>
+    <string name="txt_pedido">Tazas Pedidas:</string>
+    <string name="regresar">Regresar</string>
+</resources>
